@@ -114,3 +114,4 @@ Getting the sidebar to collapse smoothly without content jumping was annoying. E
 Push to GitHub, then import the repo in [Vercel](https://vercel.com). Add the two Supabase env variables in Vercel's project settings under Environment Variables and it should just work.
 
 Don't commit `.env.local` — it's in `.gitignore` already.
+Deployment update
